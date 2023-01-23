@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\AnimalSimulations.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\AnimalSimulations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\AnimalSimulations.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\AnimalSimulations.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\AnimalSimulations.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\bin\Debug\net6.0\AnimalSimulations.exe
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\bin\Debug\net6.0\AnimalSimulations.deps.json
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\bin\Debug\net6.0\AnimalSimulations.runtimeconfig.json
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\bin\Debug\net6.0\AnimalSimulations.dll
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\bin\Debug\net6.0\AnimalSimulations.pdb
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\AnimalSimulations.dll
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\refint\AnimalSimulations.dll
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\AnimalSimulations.pdb
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\AnimalSimulations.genruntimeconfig.cache
+C:\Users\Deivid\source\repos\InterviewTasks\AnimalSimulations\obj\Debug\net6.0\ref\AnimalSimulations.dll

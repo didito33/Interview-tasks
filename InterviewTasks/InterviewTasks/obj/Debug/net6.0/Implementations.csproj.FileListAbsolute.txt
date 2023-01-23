@@ -1,0 +1,15 @@
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\Implementations.exe
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\Implementations.deps.json
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\Implementations.runtimeconfig.json
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\Implementations.dll
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\bin\Debug\net6.0\Implementations.pdb
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\Implementations.csproj.AssemblyReference.cache
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\Implementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\Implementations.AssemblyInfoInputs.cache
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\Implementations.AssemblyInfo.cs
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\Implementations.csproj.CoreCompileInputs.cache
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\Implementations.dll
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\refint\Implementations.dll
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\Implementations.pdb
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\Implementations.genruntimeconfig.cache
+C:\Users\Deivid\source\repos\InterviewTasks\InterviewTasks\obj\Debug\net6.0\ref\Implementations.dll
